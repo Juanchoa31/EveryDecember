@@ -9,7 +9,7 @@ public class DateDecember {
         Icon image = new ImageIcon("P:\\Juan\\Desktop\\December"
                 + "\\EveryDecember"
                 + "\\DateDecember\\src\\main\\java\\com\\mycompany"
-                + "\\images\\nochebuena.png");
+                + "\\images\\nochevieja.png");
         Date date = new Date();
         JOptionPane.showMessageDialog(null,
             "Feliz año nuevo, basuras! ❤️\n"+date
