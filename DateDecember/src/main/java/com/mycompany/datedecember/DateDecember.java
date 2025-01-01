@@ -12,7 +12,7 @@ public class DateDecember {
                 + "\\images\\nochevieja.png");
         Date date = new Date();
         JOptionPane.showMessageDialog(null,
-            "Feliz año nuevo, basuras! ❤️\n"+date
+            "Feliz año nuevo, tonotos! ❤️\n"+date
             ,"Feliz año. ❤",JOptionPane.PLAIN_MESSAGE, image);
     }
 }
